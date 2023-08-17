@@ -42,7 +42,7 @@ HERE ARE SOME POSTMAN COLLECTIONS
 ![image](https://github.com/KrishnayMishra/Sale-Management/assets/86675294/106b7057-cd1f-4987-8ec9-578126a39872)
 
 3-
-![image](https://github.com/KrishnayMishra/Sale-Management/assets/86675294/fb08917b-e2c8-4dc5-8415-7fcef8c2703a)
+![image](https://github.com/KrishnayMishra/Sale-Management/assets/86675294/ef27f160-15f9-42d2-88e4-a32816e5156d)
 
 4-
 ![image](https://github.com/KrishnayMishra/Sale-Management/assets/86675294/c50769bb-bed6-4f76-8160-6fddc2998bc5)
