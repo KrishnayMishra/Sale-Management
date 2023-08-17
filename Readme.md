@@ -34,5 +34,25 @@ FLOW OF PROGRAM:
 	2. CREATED CAMPAIGN DISCOUNT ENTITY FOR STORING VALUES AND IN ASSOCIATION WITH CAMPAIGN ENTITY.
 	3. CREATED PRICECHANGE ENTITY, DAO, SERVICE AND CONTROLLER FOR STORING CHANGE IN PRICES OF PRODUCT WITH DATE.
 	
-		
+HERE ARE SOME POSTMAN COLLECTIONS
+1-
+![image](https://github.com/KrishnayMishra/Sale-Management/assets/86675294/a99b2128-8148-4cd6-91a6-8835cac25cc8)
+
+2-
+![image](https://github.com/KrishnayMishra/Sale-Management/assets/86675294/106b7057-cd1f-4987-8ec9-578126a39872)
+
+3-
+![image](https://github.com/KrishnayMishra/Sale-Management/assets/86675294/fb08917b-e2c8-4dc5-8415-7fcef8c2703a)
+
+4-
+![image](https://github.com/KrishnayMishra/Sale-Management/assets/86675294/c50769bb-bed6-4f76-8160-6fddc2998bc5)
+
+5-
+![image](https://github.com/KrishnayMishra/Sale-Management/assets/86675294/6b4bffc1-8f24-4ae2-9f1c-f5e4f97671a6)
+
+
+
+
+
+
 	
