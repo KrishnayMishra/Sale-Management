@@ -51,7 +51,7 @@ HERE ARE SOME POSTMAN COLLECTIONS
 ![image](https://github.com/KrishnayMishra/Sale-Management/assets/86675294/6b4bffc1-8f24-4ae2-9f1c-f5e4f97671a6)
 
 
-
+https://drive.google.com/file/d/1I5TrHIiwfA1tOid6nT1xcWbqSFuLwSJu/view?usp=drive_link
 
 
 
